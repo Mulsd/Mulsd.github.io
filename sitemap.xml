@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://mulsd.cf/link/index.html</loc>
+    
+    <lastmod>2020-03-23T01:03:16.268Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://mulsd.cf/about-others/index.html</loc>
+    
+    <lastmod>2020-03-23T00:16:37.689Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://mulsd.cf/about/index.html</loc>
+    
+    <lastmod>2020-03-23T00:16:21.293Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://mulsd.cf/2020/03/21/sitemap/</loc>
     
     <lastmod>2020-03-21T14:04:57.855Z</lastmod>
@@ -19,13 +40,6 @@
     <loc>http://mulsd.cf/categories/index.html</loc>
     
     <lastmod>2020-03-13T09:09:38.266Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://mulsd.cf/link/index.html</loc>
-    
-    <lastmod>2020-03-13T09:08:47.213Z</lastmod>
     
   </url>
   
