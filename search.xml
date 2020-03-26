@@ -4,11 +4,24 @@
   
     
     <entry>
+      <title>hexo</title>
+      <link href="/2020/03/26/hexo/"/>
+      <url>/2020/03/26/hexo/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>为HEXO博客添加站点地图</title>
       <link href="/2020/03/21/sitemap/"/>
       <url>/2020/03/21/sitemap/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h1><p>最近在搞Bing的网址提交时被要求提供网站地图，但HEXO本身是不会自动生成站点地图的，需要使用插件来解决。</p><h1 id="生成方法"><a href="#生成方法" class="headerlink" title="生成方法"></a>生成方法</h1><p>cd到你的博客根目录</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ <span class="built_in">cd</span> yoursite</span><br></pre></td></tr></table></figure><p>安装插件<code>hexo-generator-sitemap</code></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ npm install hexo-generator-sitemap --save</span><br></pre></td></tr></table></figure><p>安装完之后运行HEXO本地服务</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo s</span><br></pre></td></tr></table></figure><p>进入<code>localhost:{你选用的端口}/sitemap.xml</code>,如果成功进入就证明站点地图已经生成完毕了。如图：</p><p><img src="/" alt="sitemap" class="lazyload" data-src="https://ingtest-1259149741.cos.ap-guangzhou.myqcloud.com/%E6%97%A0%E6%A0%87%E9%A2%98.png"></p><h1 id="还有一些其他的"><a href="#还有一些其他的" class="headerlink" title="还有一些其他的.."></a>还有一些其他的..</h1><p>似乎还有一些针对百度的一些操作，详情移步到<a href="https://www.jianshu.com/p/9c2d6db2f855" target="_blank" rel="noopener">简书</a></p><p>Q.E.D</p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h1><p>最近在搞Bing的网址提交时被要求提供网站地图，但HEXO本身是不会自动生成站点地图的，需要使用插件来解决。</p><h1 id="生成方法"><a href="#生成方法" class="headerlink" title="生成方法"></a>生成方法</h1><p>内容屏蔽…..</p>]]></content>
       
       
       <categories>
