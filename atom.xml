@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Mulsd的茶屋</title>
   
-  
+  <subtitle>Mulsd的茶屋</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://mulsd.cf/"/>
-  <updated>2020-03-26T12:48:21.925Z</updated>
+  <updated>2020-04-04T10:39:46.511Z</updated>
   <id>http://mulsd.cf/</id>
   
   <author>
@@ -17,35 +17,13 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>hexo</title>
-    <link href="http://mulsd.cf/2020/03/26/hexo/"/>
-    <id>http://mulsd.cf/2020/03/26/hexo/</id>
-    <published>2020-03-26T12:48:21.000Z</published>
-    <updated>2020-03-26T12:48:21.925Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>为HEXO博客添加站点地图</title>
-    <link href="http://mulsd.cf/2020/03/21/sitemap/"/>
-    <id>http://mulsd.cf/2020/03/21/sitemap/</id>
+    <link href="http://mulsd.cf/cv/102/"/>
+    <id>http://mulsd.cf/cv/102/</id>
     <published>2020-03-21T07:47:03.000Z</published>
-    <updated>2020-03-26T09:16:17.317Z</updated>
+    <updated>2020-04-04T10:39:46.511Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h1><p>最近在搞Bing的网址提交时被要求提供网站地图，但HEXO本身是不会自动生成站点地图的，需要使用插件来解决。</p><h1 id="生成方法"><a href="#生成方法" class="headerlink" title="生成方法"></a>生成方法</h1><p>内容屏蔽…..</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h1><p>最近在搞Bing的网址提交时被要求提供网站地图，但HEXO本身是不会自动生成站点地图的，需要使用插件来解决。</p><h1 id="生成方法"><a href="#生成方法" class="headerlink" title="生成方法"></a>生成方法</h1><p>待挖坑……</p>]]></content>
     
     <summary type="html">
     
@@ -55,6 +33,8 @@
     
     
       <category term="技术" scheme="http://Mulsd.cf/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="HEXO" scheme="http://Mulsd.cf/categories/%E6%8A%80%E6%9C%AF/HEXO/"/>
     
     
       <category term="技术" scheme="http://Mulsd.cf/tags/%E6%8A%80%E6%9C%AF/"/>
@@ -67,12 +47,12 @@
   
   <entry>
     <title>TODO_List</title>
-    <link href="http://mulsd.cf/2020/03/07/TODO-List/"/>
-    <id>http://mulsd.cf/2020/03/07/TODO-List/</id>
+    <link href="http://mulsd.cf/cv/100/"/>
+    <id>http://mulsd.cf/cv/100/</id>
     <published>2020-03-07T14:11:09.000Z</published>
-    <updated>2020-03-18T09:08:08.565Z</updated>
+    <updated>2020-04-04T10:49:54.524Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>为了方便有计划地建设博客，特地写了一个TODO来规划一下。</p><h1 id="TODO"><a href="#TODO" class="headerlink" title="TODO"></a>TODO</h1><ul><li><input checked="" disabled="" type="checkbox"> <p>评论</p></li><li><input checked="" disabled="" type="checkbox"> <p>友链信息修改</p></li><li><input checked="" disabled="" type="checkbox"> <p>友链链接修改</p></li><li><input disabled="" type="checkbox"> <p>友链排版修改</p></li><li><input checked="" disabled="" type="checkbox"> <p>首页bg修改</p></li><li><input checked="" disabled="" type="checkbox"> <p>微信支付宝捐赠链接</p></li><li><input disabled="" type="checkbox"> <p>捐赠页面</p></li><li><input disabled="" type="checkbox"> <p>番剧页</p></li><li><input checked="" disabled="" type="checkbox"> <p>cdn迁移</p></li><li><input checked="" disabled="" type="checkbox"> <p>改主题颜色</p></li><li><input disabled="" type="checkbox"> <p>增加谷歌统计</p></li><li><input checked="" disabled="" type="checkbox"> <p>live2d <del>(炒高难度)</del>就一条代码就搞定了</p></li><li><input disabled="" type="checkbox"> <p>评论通知模板</p></li><li><input disabled="" type="checkbox"> <p>想到什么再加吧…</p></li></ul>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>为了方便有计划地建设博客，特地写了一个TODO来规划一下。</p><h1 id="TODO"><a href="#TODO" class="headerlink" title="TODO"></a>TODO</h1><ul><li><input checked="" disabled="" type="checkbox"> <p>评论</p></li><li><input checked="" disabled="" type="checkbox"> <p>友链信息修改</p></li><li><input checked="" disabled="" type="checkbox"> <p>友链链接修改</p></li><li><input checked="" disabled="" type="checkbox"> <p>友链排版修改</p></li><li><input checked="" disabled="" type="checkbox"> <p>首页bg修改</p></li><li><input checked="" disabled="" type="checkbox"> <p>微信支付宝捐赠链接</p></li><li><input disabled="" type="checkbox"> <p>捐赠页面</p></li><li><input disabled="" type="checkbox"> <p>番剧页</p></li><li><input checked="" disabled="" type="checkbox"> <p>cdn迁移</p></li><li><input checked="" disabled="" type="checkbox"> <p>改主题颜色</p></li><li><input checked="" disabled="" type="checkbox"> <p>增加谷歌统计</p></li><li><input checked="" disabled="" type="checkbox"> <p>live2d <del>(炒高难度)</del>就一条代码就搞定了</p></li><li><input checked="" disabled="" type="checkbox"> <p>评论通知模板</p></li><li><input disabled="" type="checkbox"> <p>想到什么再加吧…</p></li></ul>]]></content>
     
     <summary type="html">
     
@@ -81,10 +61,6 @@
     </summary>
     
     
-      <category term="TODO" scheme="http://Mulsd.cf/categories/TODO/"/>
-    
-    
-      <category term="TODO" scheme="http://Mulsd.cf/tags/TODO/"/>
     
   </entry>
   

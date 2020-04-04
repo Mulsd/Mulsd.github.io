@@ -4,29 +4,18 @@
   
     
     <entry>
-      <title>hexo</title>
-      <link href="/2020/03/26/hexo/"/>
-      <url>/2020/03/26/hexo/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>为HEXO博客添加站点地图</title>
-      <link href="/2020/03/21/sitemap/"/>
-      <url>/2020/03/21/sitemap/</url>
+      <link href="//cv/102/"/>
+      <url>//cv/102/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h1><p>最近在搞Bing的网址提交时被要求提供网站地图，但HEXO本身是不会自动生成站点地图的，需要使用插件来解决。</p><h1 id="生成方法"><a href="#生成方法" class="headerlink" title="生成方法"></a>生成方法</h1><p>内容屏蔽…..</p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h1><p>最近在搞Bing的网址提交时被要求提供网站地图，但HEXO本身是不会自动生成站点地图的，需要使用插件来解决。</p><h1 id="生成方法"><a href="#生成方法" class="headerlink" title="生成方法"></a>生成方法</h1><p>待挖坑……</p>]]></content>
       
       
       <categories>
           
           <category> 技术 </category>
+          
+          <category> HEXO </category>
           
       </categories>
       
@@ -47,24 +36,12 @@
     
     <entry>
       <title>TODO_List</title>
-      <link href="/2020/03/07/TODO-List/"/>
-      <url>/2020/03/07/TODO-List/</url>
+      <link href="//cv/100/"/>
+      <url>//cv/100/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>为了方便有计划地建设博客，特地写了一个TODO来规划一下。</p><h1 id="TODO"><a href="#TODO" class="headerlink" title="TODO"></a>TODO</h1><ul><li><input checked="" disabled="" type="checkbox"> <p>评论</p></li><li><input checked="" disabled="" type="checkbox"> <p>友链信息修改</p></li><li><input checked="" disabled="" type="checkbox"> <p>友链链接修改</p></li><li><input disabled="" type="checkbox"> <p>友链排版修改</p></li><li><input checked="" disabled="" type="checkbox"> <p>首页bg修改</p></li><li><input checked="" disabled="" type="checkbox"> <p>微信支付宝捐赠链接</p></li><li><input disabled="" type="checkbox"> <p>捐赠页面</p></li><li><input disabled="" type="checkbox"> <p>番剧页</p></li><li><input checked="" disabled="" type="checkbox"> <p>cdn迁移</p></li><li><input checked="" disabled="" type="checkbox"> <p>改主题颜色</p></li><li><input disabled="" type="checkbox"> <p>增加谷歌统计</p></li><li><input checked="" disabled="" type="checkbox"> <p>live2d <del>(炒高难度)</del>就一条代码就搞定了</p></li><li><input disabled="" type="checkbox"> <p>评论通知模板</p></li><li><input disabled="" type="checkbox"> <p>想到什么再加吧…</p></li></ul>]]></content>
-      
-      
-      <categories>
-          
-          <category> TODO </category>
-          
-      </categories>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>为了方便有计划地建设博客，特地写了一个TODO来规划一下。</p><h1 id="TODO"><a href="#TODO" class="headerlink" title="TODO"></a>TODO</h1><ul><li><input checked="" disabled="" type="checkbox"> <p>评论</p></li><li><input checked="" disabled="" type="checkbox"> <p>友链信息修改</p></li><li><input checked="" disabled="" type="checkbox"> <p>友链链接修改</p></li><li><input checked="" disabled="" type="checkbox"> <p>友链排版修改</p></li><li><input checked="" disabled="" type="checkbox"> <p>首页bg修改</p></li><li><input checked="" disabled="" type="checkbox"> <p>微信支付宝捐赠链接</p></li><li><input disabled="" type="checkbox"> <p>捐赠页面</p></li><li><input disabled="" type="checkbox"> <p>番剧页</p></li><li><input checked="" disabled="" type="checkbox"> <p>cdn迁移</p></li><li><input checked="" disabled="" type="checkbox"> <p>改主题颜色</p></li><li><input checked="" disabled="" type="checkbox"> <p>增加谷歌统计</p></li><li><input checked="" disabled="" type="checkbox"> <p>live2d <del>(炒高难度)</del>就一条代码就搞定了</p></li><li><input checked="" disabled="" type="checkbox"> <p>评论通知模板</p></li><li><input disabled="" type="checkbox"> <p>想到什么再加吧…</p></li></ul>]]></content>
       
       
-        <tags>
-            
-            <tag> TODO </tag>
-            
-        </tags>
       
     </entry>
     
