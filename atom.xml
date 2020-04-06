@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://mulsd.cf/"/>
-  <updated>2020-04-05T11:31:56.937Z</updated>
+  <updated>2020-04-06T13:11:07.227Z</updated>
   <id>http://mulsd.cf/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://mulsd.cf/cv104/"/>
     <id>http://mulsd.cf/cv104/</id>
     <published>2020-04-04T10:38:19.000Z</published>
-    <updated>2020-04-05T11:31:56.937Z</updated>
+    <updated>2020-04-06T13:11:07.227Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>Hash是一款轻便，绿色，小巧的文件校检工具。由国外大神Robin Keir开发，现在已经不再开发（？</p><h1 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h1><h2 id="内容丰富"><a href="#内容丰富" class="headerlink" title="内容丰富"></a>内容丰富</h2><p>版本、日期、MD5、SHA1、CRC32，可以选择你想要校检的内容。</p><h2 id="排版简洁"><a href="#排版简洁" class="headerlink" title="排版简洁"></a>排版简洁</h2><p>超大文本框，一目了然，方便复制。</p><h2 id="多文件比较"><a href="#多文件比较" class="headerlink" title="多文件比较"></a>多文件比较</h2><p>可以一次性计算多个文件，省时快捷。</p><h2 id="报告一键保存"><a href="#报告一键保存" class="headerlink" title="报告一键保存"></a>报告一键保存</h2><p>轻轻一点，将大量内容保存成TXT,方便日后复查。</p><h2 id="还有更多…"><a href="#还有更多…" class="headerlink" title="还有更多…"></a>还有更多…</h2><p>你可以自行探索。</p><h1 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h1><p><img src="/" alt="英文无内容" class="lazyload" data-src="https://cdn.jsdelivr.net/gh/Mulsd/Image@master/2020/04/05/e7e71e0e1d2a9bdc004ec4f3927ea63f.png"></p><p><img src="/" alt="英文有内容" class="lazyload" data-src="https://cdn.jsdelivr.net/gh/Mulsd/Image@master/2020/04/05/9abfd3a99c2becffe10a1afa2b33ce7e.png"></p><p><img src="/" alt="中文无内容" class="lazyload" data-src="https://cdn.jsdelivr.net/gh/Mulsd/Image@master/2020/04/05/c2a69905e69db124c7d516ecb11f66e4.png"></p><p><img src="/" alt="中文有内容" class="lazyload" data-src="https://cdn.jsdelivr.net/gh/Mulsd/Image@master/2020/04/05/b51f593fd88d83e17916959d7b48d5cd.png"></p><h1 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h1><p><a href="http://keir.net/hash.html" target="_blank" rel="noopener">官网:无汉化</a></p><p><a href="#下载地址">看脸云:汉化+原版</a> 你脸太黑了用不了…</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="概述"><a href="#概述" class="headerlink" title="概述"></a>概述</h1><p>Hash是一款轻便，绿色，小巧的文件校检工具。由国外大神Robin Keir开发，现在已经不再开发（？</p><h1 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h1><ol><li><p>内容丰富<br>版本、日期、MD5、SHA1、CRC32，可以选择你想要校检的内容。</p></li><li><p>排版简洁<br>超大文本框，一目了然，方便复制。</p></li><li><p>多文件比较<br>可以一次性计算多个文件，省时快捷。</p></li><li><p>报告一键保存<br>轻轻一点，将大量内容保存成TXT,方便日后复查。</p></li><li><p>还有更多…<br>你可以自行探索。</p></li></ol><h1 id="软件截图"><a href="#软件截图" class="headerlink" title="软件截图"></a>软件截图</h1><p><img src="/" alt="英文无内容" class="lazyload" data-src="https://cdn.jsdelivr.net/gh/Mulsd/Image@master/2020/04/05/e7e71e0e1d2a9bdc004ec4f3927ea63f.png"></p><p><img src="/" alt="英文有内容" class="lazyload" data-src="https://cdn.jsdelivr.net/gh/Mulsd/Image@master/2020/04/05/9abfd3a99c2becffe10a1afa2b33ce7e.png"></p><p><img src="/" alt="中文无内容" class="lazyload" data-src="https://cdn.jsdelivr.net/gh/Mulsd/Image@master/2020/04/05/c2a69905e69db124c7d516ecb11f66e4.png"></p><p><img src="/" alt="中文有内容" class="lazyload" data-src="https://cdn.jsdelivr.net/gh/Mulsd/Image@master/2020/04/05/b51f593fd88d83e17916959d7b48d5cd.png"></p><h1 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h1><p><a href="http://keir.net/hash.html" target="_blank" rel="noopener">官网:无汉化</a></p><p><a href="https://d2.violet.tk/?/Hash.zip" target="_blank" rel="noopener">看脸云:汉化+原版</a> 下载不了就是因为脸黑。</p>]]></content>
     
     <summary type="html">
     
