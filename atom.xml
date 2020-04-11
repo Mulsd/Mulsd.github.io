@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://mulsd.xyz/"/>
-  <updated>2020-04-08T00:57:23.077Z</updated>
+  <updated>2020-04-11T10:40:48.131Z</updated>
   <id>http://mulsd.xyz/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>试试简单的脚本：递增内容的输入</title>
+    <link href="http://mulsd.xyz/cv106/"/>
+    <id>http://mulsd.xyz/cv106/</id>
+    <published>2020-04-08T03:19:23.000Z</published>
+    <updated>2020-04-11T10:40:48.131Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>最近有位大兄弟有连续输入递增内容的需求，心血来潮帮他写了一个shell脚本</p><h1 id="需求背景"><a href="#需求背景" class="headerlink" title="需求背景"></a>需求背景</h1><p>张三想要在md文件内连续插入100张图片，一行一条，但不想一条一条的写。图片的文件名为1.jpg到100.jpg。</p><p><img src="/" alt="例如" class="lazyload" data-src="https://cdn.jsdelivr.net/gh/Mulsd/Image@master/2020/04/11/6aad1a9f0bd360bc9425bea4186c8ac5.png"></p><h1 id="构思"><a href="#构思" class="headerlink" title="构思"></a>构思</h1><p>对于文件输出，我们可以用<code>echo+重定向输出</code>来解决。<br>递增的数字内容可以用<code>let $变量 ++</code>来增加。<br>重复输出则用<code>while语句</code>进行。<br>通过 <code>if [ $变量 -gt/-lt 数值]</code>来判断行数.</p><h1 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h1><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line">TIMES=1</span><br><span class="line"><span class="keyword">while</span> <span class="literal">true</span></span><br><span class="line"><span class="keyword">do</span></span><br><span class="line"><span class="built_in">echo</span> <span class="string">"![](//path/<span class="variable">$TIMES</span>.jpg)"</span> &gt;&gt; 123.md</span><br><span class="line"><span class="keyword">if</span> [ <span class="variable">$TIMES</span> -eq 100 ] ; <span class="keyword">then</span></span><br><span class="line"><span class="built_in">echo</span> <span class="string">"生成完毕"</span></span><br><span class="line"><span class="built_in">read</span> -p <span class="string">"按ENTER键退出..."</span> -s</span><br><span class="line"><span class="built_in">exit</span> 0</span><br><span class="line"><span class="keyword">elif</span> [ <span class="variable">$TIMES</span> -lt 100 ] ; <span class="keyword">then</span></span><br><span class="line"><span class="built_in">let</span> TIMES++</span><br><span class="line"><span class="built_in">echo</span> <span class="string">"已生成第<span class="variable">$TIMES</span>行"</span></span><br><span class="line"><span class="keyword">fi</span></span><br><span class="line"><span class="keyword">done</span></span><br></pre></td></tr></table></figure><h1 id="过程"><a href="#过程" class="headerlink" title="过程"></a>过程</h1><p>我们先把变量定为1，进入<code>while</code>语句，通过<code>echo</code>输出到文件，然后通过<code>if判断语句</code>判断文件数（变量大小），如到达100，停止输出否则，继续运行，直至到达100。</p><h1 id="注意"><a href="#注意" class="headerlink" title="注意"></a>注意</h1><p>当第二行<code>while</code>后面为<code>true</code>时，会无限轮回下去，直至遇到<code>exit 0</code>。<br>脚本运行到<code>exit 0</code>时就会直接退出，在 <code>done</code>后面的内容直接无效。</p><h1 id="截图"><a href="#截图" class="headerlink" title="截图"></a>截图</h1><p><img src="/" alt="截图" class="lazyload" data-src="https://cdn.jsdelivr.net/gh/Mulsd/Image@master/2020/04/11/45dfb85c20b8dbfd180fa53bae866a71.png"></p><h1 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h1><p><a href="http://dd.ljkh.tk/?/132.sh" target="_blank" rel="noopener"> 看脸云</a></p><hr><p>我也是一个新手，有什么不周到的地方请见谅，最好讲出来指点迷津，谢谢。</p>]]></content>
+    
+    <summary type="html">
+    
+      用简单的脚本来进行递增内容的输入
+    
+    </summary>
+    
+    
+      <category term="技术" scheme="http://Mulsd.xyz/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="Shell" scheme="http://Mulsd.xyz/categories/%E6%8A%80%E6%9C%AF/Shell/"/>
+    
+    
+      <category term="技术" scheme="http://Mulsd.xyz/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+      <category term="Shell" scheme="http://Mulsd.xyz/tags/Shell/"/>
+    
+      <category term="脚本" scheme="http://Mulsd.xyz/tags/%E8%84%9A%E6%9C%AC/"/>
+    
+  </entry>
   
   <entry>
     <title>线报~EPIK现已支持支付宝支付！.xyz仅需5.6元！</title>
